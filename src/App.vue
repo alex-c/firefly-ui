@@ -1,5 +1,5 @@
 <template>
-    <div>TODO</div>
+    <router-view></router-view>
 </template>
 
 <script>
@@ -14,5 +14,6 @@ export default {
 <style lang="scss">
 body {
     margin: 0px;
+    text-align: center;
 }
 </style>
